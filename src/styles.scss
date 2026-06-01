@@ -1,0 +1,15 @@
+@use '@yandex-sdc/theme-gravity-ui/light';
+@use '@yandex-sdc/theme-gravity-ui/dark';
+
+:root {
+    --gap: 8px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--g-color-base-generic) !important;
+}

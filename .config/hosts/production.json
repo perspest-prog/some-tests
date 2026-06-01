@@ -1,0 +1,21 @@
+{
+  "toolsFrontend": "tools-frontend.yandex-team.ru",
+  "WWW_URL": "https://sdc.yandex-team.ru",
+  "REST": "https://sdc.yandex-team.ru",
+  "SIMULATOR_URL": "https://simulator.sdc.yandex-team.ru",
+  "REST_SERVER": "https://sdc.yandex-team.ru",
+  "REST_URL": "https://sdc.yandex-team.ru",
+  "TOOLS_HOST": "https://tools.sdc.yandex-team.ru",
+  "TIMETABLE_URL": "https://tools.sdc.yandex-team.ru/timetable",
+  "DRIVERS_URL": "https://tools.sdc.yandex-team.ru/drivers",
+  "INVENTORY_URL": "https://inventory.sdc.yandex-team.ru",
+  "STARTREK_URL": "https://st-api.yandex-team.ru",
+  "REMOTE_CONTROL_URL": "https://remote.sdc.yandex-team.ru",
+  "AUTH_ADMIN_URL": "https://passport.yandex-team.ru",
+  "TILE_SERVICE_URL": "https://tile-service.sdc.yandex-team.ru",
+  "S3_URL": "https://selfdriving.s3.mds.yandex.net",
+  "ROOTFS_UPDATER_URL": "https://updater.sdc.yandex-team.ru",
+  "EMBEDDED_URL": "https://yahta.sdc.yandex-team.ru",
+  "METRIKA_COUNTER_ID": "49470484",
+  "YMAPS_API_KEY": "cefc8585-a113-47c7-a657-acdd44e97432"
+}

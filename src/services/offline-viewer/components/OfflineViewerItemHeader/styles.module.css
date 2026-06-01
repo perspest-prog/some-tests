@@ -1,0 +1,5 @@
+.header {
+    padding: var(--gap);
+    display: flex;
+    justify-content: space-between;
+}

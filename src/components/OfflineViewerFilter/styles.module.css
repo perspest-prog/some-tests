@@ -1,0 +1,10 @@
+.container {
+    padding: var(--gap);
+    width: 360px;
+    grid-area: filters;
+    display: flex;
+    flex-direction: column;
+    gap: var(--gap);
+    max-height: calc(100vh - 50px - 24px);
+    overflow: scroll;
+}

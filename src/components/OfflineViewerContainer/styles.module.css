@@ -1,0 +1,21 @@
+.container {
+    display: grid;  
+    grid-auto-columns: min-content auto;
+    grid-template-areas: "filters tabs" "filters content";
+    gap: var(--gap);
+    margin-block-start: var(--gap);
+}
+
+.tabs {
+    padding-inline: var(--gap);
+    grid-area: tabs;
+}
+
+.header {
+    padding: var(--gap);
+    height: 50px;
+}
+
+.content {
+    grid-area: content;
+}

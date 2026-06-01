@@ -1,0 +1,25 @@
+variables:
+  literal:
+    HTTPS:
+      value: "true"
+    SSL_CRT_FILE:
+      value: certs/local.yandex-team.ru.pem
+    SSL_KEY_FILE:
+      value: certs/local.yandex-team.ru.private.pem
+    HOST:
+      value: analytic-services.local.yandex-team.ru
+    DISABLE_ESLINT_PLUGIN:
+      value: "true"
+    TSC_COMPILE_ON_ERROR:
+      value: "true"
+    ESLINT_NO_DEV_ERRORS:
+      value: "true"
+    YENV:
+      value: "development"
+    GENERATE_SOURCEMAP:
+      value: "false"
+    PUBLIC_PATH:
+      value: ""
+host: "analytic-services.local.yandex-team.ru"
+certs:
+  local.yandex-team.ru: "certs/local.yandex-team.ru.private.pem,certs/local.yandex-team.ru.pem"
